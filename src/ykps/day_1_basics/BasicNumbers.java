@@ -5,7 +5,7 @@ public class BasicNumbers {
 	/**
 	 * Returns the greatest common factor of the inputed integers.
 	 */
-	public static int greatestCommonFactor(int a, int b) {
+	public static int greatestCommonFactor(int a, int b) {		
 		return 0;
 	}
 	
